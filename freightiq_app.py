@@ -162,6 +162,10 @@ HTML = """<!DOCTYPE html>
 <title>FreightIQ — Rate Quote Analyzer</title>
 <meta property="og:title" content="FreightIQ — Air Freight Rate Analyzer">
 <meta property="og:description" content="Upload multiple carrier quotes and get an instant side-by-side comparison with AI-powered recommendation.">
+<meta property="og:image" content="https://raw.githubusercontent.com/irfaan-mukul/freightiq/main/freightiq_preview.png">
+<meta property="og:url" content="https://freightiq.onrender.com">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
